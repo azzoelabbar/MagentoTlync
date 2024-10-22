@@ -6,7 +6,7 @@ define([
 
     rendererList.push({
         type: 'tlyncpayment',
-        component: 'tlync_Payment/js/view/payment/tlyncpayment'
+        component: 'tlync_Payment/js/view/payment/custompayment'
     });
 
     return Component.extend({});
